@@ -1,0 +1,13 @@
+druid
+shaman
+evoker
+priest
+mage
+warlock
+paladin
+warrior
+hunter
+rogue
+monk
+dh
+dk
